@@ -1,0 +1,23 @@
+
+.fix-input {
+    /* float: right; */
+}
+.fix-span {
+    /* float: left; */
+    flex-grow: 1
+}
+.block-input {
+    margin-bottom: 5px ;
+    display: flex;
+    /* border: 1px solid red; */
+}
+
+.fix-button {
+    margin-right: 5px;
+}
+
+.danger-color {
+    color:rgb(239, 98, 52);
+}
+
+/* căn lề : display:flex, flex-grow: 1//chả biết nó là cái gì cả */
