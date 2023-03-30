@@ -1,6 +1,7 @@
 
 .fix-input {
     /* float: right; */
+    /* color:rgb(239, 98, 52); */
 }
 .fix-span {
     /* float: left; */
@@ -9,6 +10,7 @@
 .block-input {
     margin-bottom: 5px ;
     display: flex;
+    width: 90%;
     /* border: 1px solid red; */
 }
 
@@ -18,6 +20,12 @@
 
 .danger-color {
     color:rgb(239, 98, 52);
+}
+
+.fix-small {
+    display: block;
+    /* color:rgb(239, 98, 52); */
+    font-size: 3px;
 }
 
 /* căn lề : display:flex, flex-grow: 1//chả biết nó là cái gì cả */
